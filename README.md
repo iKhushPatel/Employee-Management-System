@@ -5,7 +5,7 @@ Employee Management System "C" Program developed by Khush Patel
 
 Dear Sir/Madam...... 
 
-***Type of Access*** 
+*** Type of Access *** 
  	
 1. Admin Access 
 2. Employee Access 
@@ -14,7 +14,7 @@ For Admin access you have to enter 99 and Password is Password.
 
 For any other number is available in the file you can access Employee File.By Default we have 2 employee Detail so you can enter any one. After adding another Data you can access this particular ID no. 
  
-***Modify Module*** 
+*** Modify Module *** 
  
 Solution 1 : 
  
@@ -26,6 +26,6 @@ Another Solution is after Modify 1 Data ask Do you want to Modify another record
 
 
 
-#####Presented By ##### 
-Khush Patel 
+##### Presented By ##### 
+Khush Patel & 
 Varun Parekh 
